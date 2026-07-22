@@ -153,6 +153,4 @@ function Stats({items}) {
         `You have ${numItems} items on your list, and you already packed ${numPacked} (${percentage}%)`
         }
         </em>  
-    </footer>
-  );
-}
+    </footer>)}
